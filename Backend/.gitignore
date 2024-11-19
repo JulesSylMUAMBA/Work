@@ -1,0 +1,22 @@
+# Ignorer les dépendances
+node_modules/
+
+# Ignorer les fichiers générés
+*.log
+*.map
+*.lock
+dist/
+build/
+
+# Ignorer les fichiers d'IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.bak
+*.orig
+.DS_Store
+Thumbs.db
